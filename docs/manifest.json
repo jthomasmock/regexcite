@@ -5,8 +5,8 @@
   "metadata": {
     "appmode": "static",
     "primary_rmd": null,
-    "primary_html": "docs/index.html",
-    "content_category": null,
+    "primary_html": "index.html",
+    "content_category": "site",
     "has_parameters": false
   },
   "packages": null,
@@ -43,6 +43,9 @@
     },
     "link.svg": {
       "checksum": "4759f31f8a585e9af173fc579d730265"
+    },
+    "manifest.json": {
+      "checksum": "c14ee18c4ca34ec44ff69756cf79314e"
     },
     "pkgdown.js": {
       "checksum": "9c627b6b2c41322b8f362fac07a2ae5a"
